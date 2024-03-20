@@ -1,0 +1,7 @@
+Formula ID 1 : G[2,5]
+Formula ID 2 : F[0,5]
+Formula ID 3 : H[5,19]
+Formula ID 4 : P[5,19]
+Formula ID 5 : U[1,4]
+Formula ID 6 : S[5,19]
+Formula ID 7 : R[3,6]
