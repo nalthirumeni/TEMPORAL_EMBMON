@@ -5,7 +5,7 @@
                        					 TEMPORAL EMBMONITOR.
 			+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Function: This program EvalauteS MTL operators with time reference from 'NOW' - the current time and continues to evalaute the results for every time unit.
+Function: This program EvalauteS MLTL operators with time reference from 'NOW' - the current time and continues to evalaute the results for every time unit.
 
 
 // Developed by P Thirumeni -CSIR-NAL, India.
