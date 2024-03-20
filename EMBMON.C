@@ -14,11 +14,11 @@ Function: This program EvalauteS MLTL operators with time reference from 'NOW' -
 
 //   P THIRUMENI  2024
 
-// Functions : G,F,U,R,H,P,S,X,Y
+// Functions : G,F,U,R,H,P,S
 
 // IMPLEMENTED // Functions : G,F,U,R
 
-// TO BE IMPLEMENTED FUNTIONS H,P,S,X,Y
+// TO BE IMPLEMENTED FUNTIONS H,P,S
 
 Test G and F in MODE_1
 
