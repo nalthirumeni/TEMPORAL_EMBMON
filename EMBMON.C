@@ -16,6 +16,10 @@ Function: This program Evalauted MTL operators with time reference from 'NOW' - 
 
 // Functions : G,F,U,R,H,P,S,X,Y
 
+// IMPLEMENTED // Functions : G,F,U,R
+
+// TO BE IMPLEMENTED FUNTIONS H,P,S,X,Y
+
 Test G and F in MODE_1
 
 csv1.txt files containts the APs. with time stamp
