@@ -18,7 +18,7 @@ Function: This program EvalauteS MLTL operators with time reference from 'NOW' -
 
 // IMPLEMENTED // Functions : G,F,U,R
 
-// TO BE IMPLEMENTED FUNCTIONS H,P,S
+// TO BE IMPLEMENTED FUNCTIONS (PAST) H,P,S
 
 Test G and F in MODE_1
 
